@@ -10,6 +10,7 @@
 
 </div>
 
+---
 
 ### 🚀 Professional Summary
 * I am a passionate **Full Stack Developer** specializing in **AI-integrated web solutions**
