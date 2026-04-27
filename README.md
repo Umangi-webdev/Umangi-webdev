@@ -49,5 +49,10 @@ I am a passionate **Full Stack Developer** specializing in **AI-integrated web s
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
+### 📬 Contact Information
 
-###
+* [span_15](start_span)📧 *Email:* [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)[span_15](end_span)
+* [span_16](start_span)📍 *Location:* Palanpur, Gujarat, India[span_16](end_span)
+  
+
+---
