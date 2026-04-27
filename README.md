@@ -52,7 +52,7 @@
 
 ### 📬 Contact Information
 
-* (start_span)📧 **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)(end_span)
+* (📧 **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)
 * [span_16](start_span)📍 **Location:** Palanpur, Gujarat, India[span_16](end_span)
 * 💬 **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
 
