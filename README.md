@@ -13,27 +13,29 @@
 ---
 
 ### 🚀 Professional Summary
-[span_0](start_span)[span_1](start_span)I am a passionate **Full Stack Developer** specializing in **AI-integrated web solutions**[span_0](end_span)[span_1](end_span). [span_2](start_span)[span_3](start_span)With a strong foundation in **Data Structures and Algorithms** (400+ problems solved on LeetCode), I focus on building scalable, real-time applications using modern frameworks and cloud technologies[span_2](end_span)[span_3](end_span).
+* [span_4](start_span)I am a passionate **Full Stack Developer** specializing in **AI-integrated web solutions**[span_4](end_span).
+* [span_5](start_span)I focus on building scalable, real-time applications using modern frameworks and cloud technologies[span_5](end_span).
+* [span_6](start_span)[span_7](start_span)I have a strong foundation in **Data Structures and Algorithms** with over **400 problems solved on LeetCode**[span_6](end_span)[span_7](end_span).
 
-* [span_4](start_span)🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur (CGPA: 9.35+)[span_4](end_span)
-* [span_5](start_span)💼 **Former Web Development Intern** at NSIC, building AI-powered solutions with Azure[span_5](end_span)
-* [span_6](start_span)[span_7](start_span)🏆 **Smart Gujarat Hackathon Finalist** & 2nd Prize winner in Coding Boot Camp[span_6](end_span)[span_7](end_span)
+* [span_8](start_span)[span_9](start_span)🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35+ CGPA**[span_8](end_span)[span_9](end_span).
+* [span_10](start_span)[span_11](start_span)💼 **Former Web Development Intern** at NSIC, building AI-powered solutions with Azure[span_10](end_span)[span_11](end_span).
+* [span_12](start_span)[span_13](start_span)🏆 **Smart Gujarat Hackathon Finalist** and 2nd Prize winner in Coding Boot Camp[span_12](end_span)[span_13](end_span).
 
 ---
 
 ### 🧠 Featured Projects
 
 #### 🛰️ [GeoQuery AI](https://github.com/Umangi-webdev/GeoQuery-Al-Geospatial-Intelligence-Platform) — Geospatial Intelligence
-* [span_8](start_span)Engineered a **RAG system** integrating **LangChain** and **Google Earth Engine** for data-grounded satellite insights[span_8](end_span).
-* [span_9](start_span)[span_10](start_span)Minimized LLM hallucinations through advanced grounding architecture[span_9](end_span)[span_10](end_span).
+* [span_14](start_span)Engineered a **RAG system** integrating **LangChain** and **Google Earth Engine** for data-grounded satellite insights[span_14](end_span).
+* [span_15](start_span)[span_16](start_span)Minimized LLM hallucinations through advanced grounding architecture[span_15](end_span)[span_16](end_span).
 
 #### 🚨 [Disaster Duty System](https://github.com/Umangi-webdev/Disaster-Duty-System) — Real-Time Coordination
-* [span_11](start_span)Developed a mission-critical response system using **Node.js** and **WebSockets** for instant personnel assignment[span_11](end_span).
-* [span_12](start_span)Integrated **Twilio API** for automated emergency notifications, significantly reducing response delays[span_12](end_span).
+* [span_17](start_span)Developed a mission-critical response system using **Node.js** and **WebSockets** for instant personnel assignment[span_17](end_span).
+* [span_18](start_span)Integrated **Twilio API** for automated emergency notifications, significantly reducing response delays[span_18](end_span).
 
 #### 📈 [StockSphere](https://github.com/Umangi-webdev/StockSphere) — Trading Simulator
-* [span_13](start_span)Built a real-time trading platform using the **MERN stack**, featuring interactive data visualization with **Chart.js**[span_13](end_span).
-* [span_14](start_span)Optimized frontend performance, reducing re-render frequency by **60%**[span_14](end_span).
+* [span_19](start_span)Built a real-time trading platform using the **MERN stack**, featuring interactive data visualization with **Chart.js**[span_19](end_span).
+* [span_20](start_span)Optimized performance, reducing component re-render frequency by **60%**[span_20](end_span).
 
 ---
 
@@ -51,9 +53,8 @@
 ---
 
 ### 📬 Contact Information
-
-* (📧 **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)
-* [span_16](start_span)📍 **Location:** Palanpur, Gujarat, India[span_16](end_span)
+* [span_21](start_span)📧 **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)[span_21](end_span)
+* [span_22](start_span)📍 **Location:** Palanpur, Gujarat, India[span_22](end_span)
 * 💬 **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
 
 ---
