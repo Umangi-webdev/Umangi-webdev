@@ -50,9 +50,18 @@ I am a passionate **Full Stack Developer** specializing in **AI-integrated web s
 
 ---
 ### 📬 Contact Information
-
-* [span_15](start_span)📧 *Email:* [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)[span_15](end_span)
-* [span_16](start_span)📍 *Location:* Palanpur, Gujarat, India[span_16](end_span)
-  
+* [span_22](start_span)📧 **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)[span_22](end_span)
+* [span_23](start_span)📍 **Location:** Palanpur, Gujarat, India[span_23](end_span)
+* 💬 **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
 
 ---
+
+### 📊 GitHub Stats
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Umangi-webdev&show_icons=true&theme=visual_studio_dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umangi-webdev&layout=compact&theme=visual_studio_dark" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Umangi-webdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</div>
