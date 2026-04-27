@@ -19,7 +19,7 @@
 
 * [span_8](start_span)[span_9](start_span)🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35+ CGPA**[span_8](end_span)[span_9](end_span).
 * [span_10](start_span)[span_11](start_span)💼 **Former Web Development Intern** at NSIC, building AI-powered solutions with Azure[span_10](end_span)[span_11](end_span).
-* [span_12](start_span)[span_13](start_span)🏆 **Smart Gujarat Hackathon Finalist** and 2nd Prize winner in Coding Boot Camp[span_12](end_span)[span_13](end_span).
+* 🏆 **Smart Gujarat Hackathon Finalist** and 2nd Prize winner in Coding Boot Camp
 
 ---
 
