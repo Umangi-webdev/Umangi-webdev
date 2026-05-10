@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Umangi Patel
-### Full Stack Developer | AI- integrated Web Solution | Computer Engineering @ GEC Palanpur
+### MERN Full Stack Enthusiast | AI- integrated Web Solution | Computer Engineering @ GEC Palanpur
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gj-cp-gecpl-2027-037-umangi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
