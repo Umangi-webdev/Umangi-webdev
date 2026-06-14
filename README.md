@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Umangi Patel
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Full+Stack+Developer;AI+Integrated+Web+Solutions;Open+Source+Contributor;Computer+Engineering+Student;Building+Scalable+Applications" />
+</p>
 ### MERN Full Stack Enthusiast | AI- integrated Web Solution |AI-ML Enthusiast| Open Source Enthusiast| Computer Engineering @ GEC Palanpur
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
@@ -68,3 +71,22 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Umangi-webdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
+
+🌟 Current Focus
+🔭 Building AI-Powered Web Applications
+🌱 Exploring Cloud Native Technologies
+🤖 Working With AI-ML concepts
+📚 Practicing Data Structures & Algorithms
+🚀 Open Source Contributions
+
+💡 Developer's Motto
+
+"Transforming ideas into scalable digital solutions through code, innovation, and continuous learning."
+
+🚀 Code • Create • Innovate • Impact
+
+"Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
+
+⭐ If you like my work, consider starring my repositories!
+
+Thanks for visiting my profile ❤️
