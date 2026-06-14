@@ -78,6 +78,7 @@
 
 ### 🌟 Current Focus
 
+
 *🔭 Building AI-Powered Web Applications.
 *🌱 Exploring Cloud Native Technologies.
 *🤖 Working With AI-ML concepts.
@@ -96,4 +97,6 @@
 -------
 ### ⭐ If you like my work, consider starring my repositories!
    Check my Portfolio for more Details.
+
+   ------
 Thanks for visiting my profile ❤️
