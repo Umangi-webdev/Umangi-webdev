@@ -74,6 +74,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Umangi-webdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
+-----
 
 ### 🌟 Current Focus
 
@@ -83,7 +84,7 @@
 📚 Practicing Data Structures & Algorithms
 🚀 Open Source Contributions
 
-
+-------
 ### 💡 Developer's Motto
 
 "Transforming ideas into scalable digital solutions through code, innovation, and continuous learning."
