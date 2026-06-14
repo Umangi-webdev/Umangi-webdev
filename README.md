@@ -73,11 +73,13 @@
 </div>
 
 🌟 Current Focus
+
 🔭 Building AI-Powered Web Applications
 🌱 Exploring Cloud Native Technologies
 🤖 Working With AI-ML concepts
 📚 Practicing Data Structures & Algorithms
 🚀 Open Source Contributions
+
 
 💡 Developer's Motto
 
@@ -86,6 +88,7 @@
 🚀 Code • Create • Innovate • Impact
 
 "Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
+
 
 ⭐ If you like my work, consider starring my repositories!
 
