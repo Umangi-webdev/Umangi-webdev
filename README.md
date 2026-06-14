@@ -74,19 +74,21 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Umangi-webdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
+
 -----
+
 
 ### 🌟 Current Focus
 
-*🔭 Building AI-Powered Web Applications.
+🔭 Building AI-Powered Web Applications.
 
-*🌱 Exploring Cloud Native Technologies.
+🌱 Exploring Cloud Native Technologies.
 
-*🤖 Working With AI-ML concepts.
+🤖 Working With AI-ML concepts.
 
-*📚 Practicing Data Structures & Algorithms.
+📚 Practicing Data Structures & Algorithms.
 
-*🚀 Open Source Contributions.
+🚀 Open Source Contributions.
 
 -------
 ### 💡 Developer's Motto
