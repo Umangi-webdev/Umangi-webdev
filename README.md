@@ -78,11 +78,11 @@
 
 ### 🌟 Current Focus
 
-🔭 Building AI-Powered Web Applications
-🌱 Exploring Cloud Native Technologies
-🤖 Working With AI-ML concepts
-📚 Practicing Data Structures & Algorithms
-🚀 Open Source Contributions
+🔭 Building AI-Powered Web Applications.
+🌱 Exploring Cloud Native Technologies.
+🤖 Working With AI-ML concepts.
+📚 Practicing Data Structures & Algorithms.
+🚀 Open Source Contributions.
 
 -------
 ### 💡 Developer's Motto
