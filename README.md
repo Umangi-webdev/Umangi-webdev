@@ -1,15 +1,18 @@
 <div align="center">
 
 # Hi 👋, I'm Umangi Patel
+
+### MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur
+
+<!-- Typing Animation Here -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Full+Stack+Developer;AI+Integrated+Web+Solutions;Open+Source+Contributor;Computer+Engineering+Student;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=1100&lines=%F0%9F%9A%80+Building+AI-Powered+Digital+Experiences;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%98%81%EF%B8%8F+Cloud+Native+Learner;%F0%9F%8C%9F+Transforming+Ideas+Into+Impactful+Solutions" />
 </p>
-### MERN Full Stack Enthusiast | AI- integrated Web Solution |AI-ML Enthusiast| Open Source Enthusiast| Computer Engineering @ GEC Palanpur
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gj-cp-gecpl-2027-037-umangi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/um_patel_16?igsh=MTRoMGl4cm0yYjI5bw==)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patel_Umangi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_LINK)
 
 </div>
 
@@ -72,7 +75,7 @@
   <img src="https://komarev.com/ghpvc/?username=Umangi-webdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
-🌟 Current Focus
+### 🌟 Current Focus
 
 🔭 Building AI-Powered Web Applications
 🌱 Exploring Cloud Native Technologies
@@ -81,7 +84,7 @@
 🚀 Open Source Contributions
 
 
-💡 Developer's Motto
+### 💡 Developer's Motto
 
 "Transforming ideas into scalable digital solutions through code, innovation, and continuous learning."
 
@@ -90,6 +93,6 @@
 "Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
 
 
-⭐ If you like my work, consider starring my repositories!
+### ⭐ If you like my work, consider starring my repositories!
 
 Thanks for visiting my profile ❤️
