@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gj-cp-gecpl-2027-037-umangi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/um_patel_16?igsh=MTRoMGl4cm0yYjI5bw==)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](t.me/Patel_Umangi)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patel_Umangi)
 
 </div>
 
