@@ -100,10 +100,12 @@
 "Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
 
 -------
+
 ### ⭐ If you like my work, consider starring my repositories!
    Check my Portfolio for more Details.
    
    [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
 
    ------
+   
 Thanks for visiting my profile ❤️
