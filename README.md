@@ -64,7 +64,7 @@
 * 💬 **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
 
 ---
-## 🛤 My Learning Journey
+### 🛤 My Learning Journey
 
 ```text
 HTML & CSS
@@ -91,8 +91,7 @@ Computer Science Fundamentals
 Backend Development
 
 ---
-
-## 4️⃣ Coding Philosophy
+### 4️⃣ Coding Philosophy
 
 ```md
 ## 💭 Coding Philosophy
@@ -101,7 +100,7 @@ Backend Development
 > I believe in writing clean, maintainable code while continuously learning and improving."
 ---
 
-## 📂 What You'll Find Here
+### 📂 What You'll Find Here
 
 ✨ Full Stack Projects
 
@@ -114,7 +113,7 @@ Backend Development
 🎯 Interview Preparation
 
 📝 Technical Documentation
------
+---
 
 
 ### 🌟 Current Focus
@@ -129,7 +128,7 @@ Backend Development
 
 🚀 Open Source Contributions.
 
--------
+---
 ### 💡 Developer's Motto
 
 "Transforming ideas into scalable digital solutions through code, innovation, and continuous learning."
@@ -138,13 +137,13 @@ Backend Development
 
 "Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
 
--------
+---
 
 ### ⭐ If you like my work, consider starring my repositories!
    Check my Portfolio for more Details.
    
    [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
 
-   ------
+---
    
 Thanks for visiting my profile ❤️
