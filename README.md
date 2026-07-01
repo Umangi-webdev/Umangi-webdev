@@ -72,7 +72,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umangi-webdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="C:\Users\UMANGI\OneDrive\Pictures\Screenshots alt="Views" />
 </div>
 
 -----
