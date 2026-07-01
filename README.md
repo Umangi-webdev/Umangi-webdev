@@ -64,17 +64,56 @@
 * 💬 **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
 
 ---
+## 🛤 My Learning Journey
 
-### 📊 GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Umangi-webdev&show_icons=true&theme=visual_studio_dark" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umangi-webdev&layout=compact&theme=visual_studio_dark" />
-</p>
+```text
+HTML & CSS
+      │
+      ▼
+JavaScript
+      │
+      ▼
+React
+      │
+      ▼
+Node.js
+      │
+      ▼
+MongoDB
+      │
+      ▼
+MERN Stack
+      │
+      ▼
+Computer Science Fundamentals
+      │
+      ▼
+Backend Development
 
-<div align="center">
-  <img src="C:\Users\UMANGI\OneDrive\Pictures\Screenshots alt="Views" />
-</div>
+---
 
+## 4️⃣ Coding Philosophy
+
+```md
+## 💭 Coding Philosophy
+
+> "Strong fundamentals build great software.
+> I believe in writing clean, maintainable code while continuously learning and improving."
+---
+
+## 📂 What You'll Find Here
+
+✨ Full Stack Projects
+
+📚 CS Fundamentals
+
+💡 Learning Notes
+
+🚀 Open Source Contributions
+
+🎯 Interview Preparation
+
+📝 Technical Documentation
 -----
 
 
