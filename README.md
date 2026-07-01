@@ -94,7 +94,7 @@ Backend Development
 ### 4️⃣ Coding Philosophy
 
 ```md
-## 💭 Coding Philosophy
+### 💭 Coding Philosophy
 
 > "Strong fundamentals build great software.
 > I believe in writing clean, maintainable code while continuously learning and improving."
@@ -102,19 +102,18 @@ Backend Development
 
 ### 📂 What You'll Find Here
 
-✨ Full Stack Projects
+✨ Full Stack Projects.
 
-📚 CS Fundamentals
+📚 CS Fundamentals.
 
-💡 Learning Notes
+💡 Learning Notes.
 
-🚀 Open Source Contributions
+🚀 Open Source Contributions.
 
-🎯 Interview Preparation
+🎯 Interview Preparation.
 
-📝 Technical Documentation
+📝 Technical Documentation.
 ---
-
 
 ### 🌟 Current Focus
 
@@ -139,7 +138,7 @@ Backend Development
 
 ---
 
-### ⭐ If you like my work, consider starring my repositories!
+### **⭐ If you like my work, consider starring my repositories!**
    Check my Portfolio for more Details.
    
    [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
