@@ -67,28 +67,26 @@
 ### 🛤 My Learning Journey
 
 ```text
-HTML & CSS
-      │
-      ▼
-JavaScript
-      │
-      ▼
-React
-      │
-      ▼
-Node.js
-      │
-      ▼
+Programming Basics
+        │
+        ▼
+HTML • CSS • JavaScript
+        │
+        ▼
+React.js
+        │
+        ▼
+Node.js & Express.js
+        │
+        ▼
 MongoDB
-      │
-      ▼
-MERN Stack
-      │
-      ▼
+        │
+        ▼
 Computer Science Fundamentals
-      │
-      ▼
+        │
+        ▼
 Backend Development
+```
 
 ---
 ### 4️⃣ Coding Philosophy
@@ -98,8 +96,8 @@ Backend Development
 
 > "Strong fundamentals build great software.
 > I believe in writing clean, maintainable code while continuously learning and improving."
+```
 ---
-
 ### 📂 What You'll Find Here
 
 ✨ Full Stack Projects.
@@ -142,7 +140,7 @@ Backend Development
    Check my Portfolio for more Details.
    
    [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
-
+**
 ---
    
 Thanks for visiting my profile ❤️
