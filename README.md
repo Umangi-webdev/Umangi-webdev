@@ -23,7 +23,7 @@
 * I focus on building scalable, real-time applications using modern frameworks and cloud technologies.
 * I have a strong foundation in **Data Structures and Algorithms** with over **400 problems solved on LeetCode**
 
-* 🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35+ CGPA**
+* 🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35 CGPA**
 * 💼 **Former Web Development Intern** at NSIC, building AI-powered solutions with Azure
 * 🏆 **Smart Gujarat Hackathon Finalist** and 2nd Prize winner in Coding Boot Camp
 
