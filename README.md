@@ -31,9 +31,9 @@
 
 ### 🧠 Featured Projects
 
-#### 🛰️ [GeoQuery AI](https://github.com/Umangi-webdev/GeoQuery-Al-Geospatial-Intelligence-Platform) — Geospatial Intelligence
-* Engineered a **RAG system** integrating **LangChain** and **Google Earth Engine** for data-grounded satellite insights.
-* Minimized LLM hallucinations through advanced grounding architecture[
+#### 🛰️ [Linksync](https://github.com/Umangi-webdev/LinkSync) — video conferencing platform
+* Engineered a real-time video conferencing platform using WebRTC and Socket.io, enabling low-latency audio, communication 
+* Implemented screen sharing, secure authentication features, improving collaboration and user experience
 
 #### 🚨 [Disaster Duty System](https://github.com/Umangi-webdev/Disaster-Duty-System) — Real-Time Coordination
 * Developed a mission-critical response system using **Node.js** and **WebSockets** for instant personnel assignment
