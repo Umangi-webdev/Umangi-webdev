@@ -39,7 +39,7 @@
 * Developed a mission-critical response system using **Node.js** and **WebSockets** for instant personnel assignment
 * Integrated **Twilio API** for automated emergency notifications, significantly reducing response delays
 
-#### 📈 [StockSphere](https://github.com/Umangi-webdev/StockSphere) — Trading Simulator
+#### 📈 [TradeFolw](https://github.com/Umangi-webdev/StockSphere) — Trading Simulator
 * Built a real-time trading platform using the **MERN stack**, featuring interactive data visualization with **Chart.js**
 * Optimized performance, reducing component re-render frequency by **60%**
 
