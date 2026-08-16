@@ -1,3 +1,4 @@
+<div align="center">
 <table>
 <tr>
 <td bgcolor="#1f1f1f" align="center" width="1000px">
@@ -19,7 +20,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/um_patel_16?igsh=MTRoMGl4cm0yYjI5bw==)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patel_Umangi)
 </p>
-
+</div>
 ---
 
 ### 🚀 Professional Summary
