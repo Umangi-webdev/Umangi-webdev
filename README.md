@@ -21,6 +21,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patel_Umangi)
 </p>
 </div>
+
 ---
 
 ### 🚀 Professional Summary
