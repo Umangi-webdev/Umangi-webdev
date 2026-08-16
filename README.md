@@ -5,7 +5,7 @@
 
 <h1 align="center" style="color: #ffffff;">👋 Hi, I'm Umangi Patel</h1>
 
-<h2 align="center" style="color: #cccccc;">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur (9.65 CGPA) </h2>
+<h2 align="center" style="color: #cccccc;">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur (9.65 CGPA)</h2>
 
 </td>
 </tr>
