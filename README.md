@@ -3,9 +3,9 @@
 <tr>
 <td bgcolor="#1f1f1f" align="center" width="1000px">
 
-<h2 align="center" style="color: #ffffff;">👋 Hi, I'm Umangi Patel</h2>
+<h1 align="center" style="color: #ffffff;">👋 Hi, I'm Umangi Patel</h1>
 
-<h4 align="center" style="color: #cccccc;">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur (9.65 CGPA) </h4>
+<h2 align="center" style="color: #cccccc;">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur (9.65 CGPA) </h2>
 
 </td>
 </tr>
