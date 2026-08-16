@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td bgcolor="#1f1f1f" align="center">
+<td bgcolor="#1f1f1f" align="center" width="1000px">
 
-# <p align="center">👋 Hi, I'm Umangi Patel</p>
+<h1 align="center" style="color: #ffffff;">👋 Hi, I'm Umangi Patel</h1>
 
-### <p align="center">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur</p>
+<h3 align="center" style="color: #cccccc;">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur</h3>
 
 </td>
 </tr>
