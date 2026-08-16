@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #1f1f1f, #2d2d2d); padding: 30px; border-radius: 10px;">
 
 # Hi 👋, I'm Umangi Patel
 
