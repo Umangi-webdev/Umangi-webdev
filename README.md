@@ -14,12 +14,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=1100&lines=%F0%9F%9A%80+Building+AI-Powered+Digital+Experiences;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%98%81%EF%B8%8F+Transforming+Ideas+Into+Impactful+Solutions" />
 </p>
-<div align="center">
+<p align="center">
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gj-cp-gecpl-2027-037-umangi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/um_patel_16?igsh=MTRoMGl4cm0yYjI5bw==)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patel_Umangi)
-
+</p>
 </div>
 
 ---
