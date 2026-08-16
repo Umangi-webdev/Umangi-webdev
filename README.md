@@ -3,6 +3,7 @@
 # Hi 👋, I'm Umangi Patel
 
 ### MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur
+</div>
 
 <!-- Typing Animation Here -->
 <p align="center">
