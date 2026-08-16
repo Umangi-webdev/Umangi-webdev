@@ -23,7 +23,7 @@
 
 * 🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35 CGPA**
 * 💼 **Full Stack Web Development Intern** at Prakshal Infotech Pvt.Ltd., building full stack website to solve real world problems.
-* 🏆 **Smart Gujarat Hackathon Finalist** and 2nd Prize winner in Coding Boot Camp
+* 🏆 **Smart Gujarat Hackathon Participant** and 2nd Prize winner in Coding Boot Camp
 
 ---
 
