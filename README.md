@@ -22,7 +22,7 @@
 * I have a strong foundation in **Data Structures and Algorithms** with over **400 problems solved on LeetCode**
 
 * 🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35 CGPA**
-* 💼 **Former Web Development Intern** at NSIC, building AI-powered solutions with Azure
+* 💼 **Full Stack Web Development Intern** at Prakshal Infotech Pvt.Ltd., building full stack website to solve real world problems.
 * 🏆 **Smart Gujarat Hackathon Finalist** and 2nd Prize winner in Coding Boot Camp
 
 ---
