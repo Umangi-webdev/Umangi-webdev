@@ -1,9 +1,14 @@
-<div align="center" style="background: linear-gradient(to right, #1f1f1f, #2d2d2d); padding: 30px; border-radius: 10px;">
+<table>
+<tr>
+<td bgcolor="#1f1f1f" align="center">
 
-# Hi 👋, I'm Umangi Patel
+# <p align="center">👋 Hi, I'm Umangi Patel</p>
 
-### MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur
-</div>
+### <p align="center">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur</p>
+
+</td>
+</tr>
+</table>
 
 <!-- Typing Animation Here -->
 <p align="center">
