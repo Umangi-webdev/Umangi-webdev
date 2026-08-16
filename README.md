@@ -1,26 +1,18 @@
-<div align="center">
-<table>
-<tr>
-<td bgcolor="#1f1f1f" align="center" width="1000px">
-
-<h1 align="center" style="color: #ffffff;">👋 Hi, I'm Umangi Patel</h1>
-
-<h2 align="center" style="color: #cccccc;">MERN Full Stack Enthusiast | AI-Integrated Web Solutions | AI-ML Enthusiast | Open Source Enthusiast | Computer Engineering @ GEC Palanpur(9.65 CGPA)</h2>
-
-</td>
-</tr>
-</table>
-
-<!-- Typing Animation Here -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=1100&lines=%F0%9F%9A%80+Building+AI-Powered+Digital+Experiences;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%98%81%EF%B8%8F+Transforming+Ideas+Into+Impactful+Solutions" />
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gj-cp-gecpl-2027-037-umangi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/um_patel_16?igsh=MTRoMGl4cm0yYjI5bw==)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patel_Umangi)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=UMANGI%20PATEL&fontSize=50&fontAlignY=35&desc=MERN%20Full%20Stack%20Enthusiast%20|%20AI%20Developer&descAlignY=60&descSize=16&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </p>
-</div>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=1100&lines=%F0%9F%9A%80+Building+AI-Powered+Digital+Experiences;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%98%81%E2%88%8F%8F+Transforming+Ideas+Into+Impactful+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-pearl-beta-49.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gj-cp-gecpl-2027-037-umangi?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/um_patel_16?igsh=MTRoMG14cm0vYiI5bw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
 
 ---
 
