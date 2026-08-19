@@ -16,18 +16,18 @@
 
 ---
 
-### 🚀 Professional Summary
+###  Professional Summary
 * I am a passionate **Full Stack Developer** specializing in **AI-integrated web solutions**
 * I focus on building scalable, real-time applications using modern frameworks and cloud technologies.
 * I have a strong foundation in **Data Structures and Algorithms** with over **400 problems solved on LeetCode**
 
-* 🎓 **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.35 CGPA**
-* 💼 **Full Stack Web Development Intern** at Prakshal Infotech Pvt.Ltd., building full stack website to solve real world problems.
-* 🏆 **Smart Gujarat Hackathon Participant** and 2nd Prize winner in Coding Boot Camp
+*  **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.65 CGPA**
+*  **Full Stack Web Development Intern** at Prakshal Infotech Pvt.Ltd., building full stack website to solve real world problems.
+*  **Smart Gujarat Hackathon Participant** and 2nd Prize winner in Coding Boot Camp
 
 ---
 
-### 🧠 Featured Projects
+###  Featured Projects
 
 #### 🛰️ [Linksync](https://github.com/Umangi-webdev/LinkSync) — video conferencing platform
 * Engineered a real-time video conferencing platform using WebRTC and Socket.io, enabling low-latency audio, communication 
@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ Technical Ecosystem
+###  Technical Ecosystem
 
 **Languages & Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,13 +56,13 @@
 
 ---
 
-### 📬 Contact Information
-* 📧 **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)
-* 📍 **Location:** Palanpur, Gujarat, India.
-* 💬 **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
+###  Contact Information
+*  **Email:** [patelumangi2005@gmail.com](mailto:patelumangi2005@gmail.com)
+*  **Location:** Palanpur, Gujarat, India.
+*  **Telegram:** [@Patel_Umangi](https://t.me/Patel_Umangi)
 
 ---
-### 🛤 My Learning Journey
+###  My Learning Journey
 
 ```text
 Programming Basics
@@ -87,7 +87,7 @@ Backend Development
 ```
 
 ---
-### 4️⃣ Coding Philosophy
+###  Coding Philosophy
 
 ```md
 ### 💭 Coding Philosophy
@@ -96,7 +96,7 @@ Backend Development
 > I believe in writing clean, maintainable code while continuously learning and improving."
 ```
 ---
-### 📂 What You'll Find Here
+###  What You'll Find Here
 
 ✨ Full Stack Projects.
 
@@ -113,30 +113,30 @@ Backend Development
 📝 Technical Documentation.
 ---
 
-### 🌟 Current Focus
+###  Current Focus
 
-🔭 Building AI-Powered Web Applications.
+1) Building AI-Powered Web Applications.
 
-🌱 Exploring Cloud Native Technologies.
+2) Exploring Cloud Native Technologies.
 
-🤖 Working With AI-ML concepts.
+3) Working With AI-ML concepts.
 
-📚 Practicing Data Structures & Algorithms.
+4) Practicing Data Structures & Algorithms.
 
-🚀 Open Source Contributions.
+5) Open Source Contributions.
 
 ---
-### 💡 Developer's Motto
+###  Developer's Motto
 
 "Transforming ideas into scalable digital solutions through code, innovation, and continuous learning."
 
-🚀 Code • Create • Innovate • Impact
+ Code • Create • Innovate • Impact
 
 "Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
 
 ---
 
-### **⭐ If you like my work, consider starring my repositories!**
+### ** If you like my work, consider starring my repositories!**
    Check my Portfolio for more Details.
    
    [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pearl-beta-49.vercel.app/)
