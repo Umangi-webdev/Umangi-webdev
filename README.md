@@ -98,15 +98,15 @@ Backend Development
 ---
 ###  What You'll Find Here
 
-✨ Full Stack Projects.
+1) Full Stack Projects.
 
-📚 CS Fundamentals.
+2) CS Fundamentals.
 
-💡 Learning Notes.
+3) Learning Notes.
 
-🚀 Open Source Contributions.
+4) Open Source Contributions.
 
-🎯 Interview Preparation.
+5) Interview Preparation.
 
 ---
 
