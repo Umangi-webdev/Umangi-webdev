@@ -90,7 +90,7 @@ Backend Development
 ###  Coding Philosophy
 
 ```md
-### 💭 Coding Philosophy
+###  Coding Philosophy
 
 > "Strong fundamentals build great software.
 > I believe in writing clean, maintainable code while continuously learning and improving."
