@@ -26,13 +26,6 @@
 *  **Smart Gujarat Hackathon Participant** and 2nd Prize winner in Coding Boot Camp
 
 ---
-<h3 align="left">LeetCode Achievement</h3>
-
-<p align="center">
-  <a href="https://leetcode.com/medal/?showImg=0&id=10685613&isLevel=false" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="140" alt="LeetCode Knight Badge" />
-  </a>
-</p>
 
 ###  Featured Projects
 
