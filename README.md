@@ -26,6 +26,10 @@
 *  **Smart Gujarat Hackathon Participant** and 2nd Prize winner in Coding Boot Camp
 
 ---
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode.com/medal/?showImg=0&id=10685613&isLevel=false" />
+</p>
 
 ###  Featured Projects
 
