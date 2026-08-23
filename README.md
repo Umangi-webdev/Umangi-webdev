@@ -134,9 +134,6 @@ Backend Development
 
 ---
 
-
----
-
 ### ** If you like my work, consider starring my repositories!**
    Check my Portfolio for more Details.
    
