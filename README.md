@@ -133,13 +133,7 @@ Backend Development
 5) Open Source Contributions.
 
 ---
-###  Developer's Motto
 
-"Transforming ideas into scalable digital solutions through code, innovation, and continuous learning."
-
- Code • Create • Innovate • Impact
-
-"Every line of code is an opportunity to solve a real-world problem and create meaningful impact."
 
 ---
 
