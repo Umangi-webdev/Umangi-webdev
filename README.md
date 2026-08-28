@@ -16,14 +16,14 @@
 
 ---
 
-###  Professional Summary
-* I am a passionate **Full Stack Developer** specializing in **AI-integrated web solutions**
-* I focus on building scalable, real-time applications using modern frameworks and cloud technologies.
-* I have a strong foundation in **Data Structures and Algorithms** with over **400 problems solved on LeetCode**
+### Professional Summary
 
-*  **B.E. in Computer Engineering** at Government Engineering College Palanpur with a **9.65 CGPA**
-*  **Full Stack Web Development Intern** at Prakshal Infotech Pvt.Ltd., building full stack website to solve real world problems.
-*  **Smart Gujarat Hackathon Participant** and 2nd Prize winner in Coding Boot Camp
+* Passionate **Full Stack Developer** with a strong interest in building **AI-integrated web solutions** and scalable applications.
+* Proficient in developing **real-time and user-centric web applications** using modern full-stack technologies.
+* Strong foundation in **Data Structures & Algorithms**, with **400+ problems solved on LeetCode**.
+* Pursuing **B.E. in Computer Engineering** at **Government Engineering College, Palanpur**, with a **9.65 CGPA**.
+* Completed a **Full Stack Web Development Internship at Prakshal Infotech Pvt. Ltd.**, gaining hands-on experience in developing web solutions for real-world requirements.
+* **Smart Gujarat Hackathon Participant** and **2nd Prize Winner in Coding Boot Camp**, demonstrating strong problem-solving and technical skills.
 
 ---
 
