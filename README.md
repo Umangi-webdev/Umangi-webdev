@@ -40,7 +40,7 @@
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs, JWT, Groq API, Tailwind CSS.
 
-[GitHub Repository](https://github.com/Umangi-webdev/XportConnect) | [Live Demo](https://xport-connect-export-management.vercel.app/)
+[GitHub Repository](https://github.com/Umangi-webdev/XportConnect) 
 
 ### 🤖 [BudgetBot](https://github.com/Umangi-webdev/BudgetBot)
 **AI-Powered Financial Management System**
@@ -51,7 +51,7 @@
 
 **Tech Stack:** React.js, Node.js, Express.js, Python, MongoDB, Tailwind CSS, Twilio API, Groq API.
 
-[GitHub Repository](https://github.com/Umangi-webdev/BudgetBot) | [Live Demo](https://budget-bot-two.vercel.app/)
+[GitHub Repository](https://github.com/Umangi-webdev/BudgetBot) 
 
 ### 🎥 [LinkSync](https://github.com/Umangi-webdev/LinkSync)
 **Real-Time Video Conferencing Platform**
@@ -62,7 +62,7 @@
 
 **Tech Stack:** React.js, Node.js, Express.js, WebRTC, Socket.io, MongoDB, JavaScript.
 
-[GitHub Repository](https://github.com/Umangi-webdev/LinkSync) | [Live Demo](https://link-sync-nu.vercel.app/)
+[GitHub Repository](https://github.com/Umangi-webdev/LinkSync) 
 
 ---
 
